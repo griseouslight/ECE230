@@ -9,3 +9,4 @@ Includes most software written by myself in an ECE course.
 
 1. Finish the course
 
+Files are mostly created with MPLAB X IDE from https://www.microchip.com.
